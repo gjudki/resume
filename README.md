@@ -1,11 +1,11 @@
-[Your Name]
-[Your Address]
-[Your Email]
-[Your Phone Number]
-[LinkedIn Profile (if applicable)]
+Grant Judkins
+Millcreek, UT
+gjudki@gmail.com
+801-473-8298
+www.linkedin.com/in/grant-judkins/
 
 **Objective:**
-Dynamic and results-driven Engineering Manager with a proven track record of leading cross-functional teams to deliver innovative solutions. Seeking an opportunity to apply my technical expertise and leadership skills in a challenging engineering management role.
+Results-oriented Engineering Manager with a demonstrated history of leading teams to deliver high-quality engineering solutions that enhance customer experiences. Seeking an opportunity to leverage my technical expertise and leadership skills in a challenging engineering management role, dedicated to ensuring the delivery of top-tier products.
 
 **Skills:**
 - Project Management
