@@ -11,18 +11,16 @@ Results-oriented Engineering Manager with a demonstrated history of leading team
 - Project Management
 - Team Leadership
 - Strategic Planning
-- Budgeting and Resource Allocation
 - Cross-functional Collaboration
-- Product Development
 - Quality Assurance
 - Continuous Improvement
-- Risk Management
 - Excellent Communication
+- KPI driven mindset
 
 **Work Experience:**
 
-**Engineering Manager | XYZ Tech Solutions, Anytown, USA | MM/YYYY - Present**
-- Lead a team of [number] engineers in the development of [type of projects/products].
+**Engineering Manager | Snap Finance | 01/2022 - Present**
+- Lead multiple teams of Engineers to build enterprise level B2B and B2C solutions
 - Spearhead the planning and execution of engineering projects, ensuring adherence to timelines and budget constraints.
 - Collaborate with cross-functional teams, including product management and marketing, to align engineering efforts with overall business goals.
 - Implement agile methodologies to improve project efficiency and product delivery.
@@ -36,19 +34,8 @@ Results-oriented Engineering Manager with a demonstrated history of leading team
 
 **Education:**
 
-**Master of Science in [Your Engineering Discipline]**
-[University Name], Anytown, USA | Graduated: MM/YYYY
-
-**Bachelor of Science in [Your Engineering Discipline]**
-[University Name], Anytown, USA | Graduated: MM/YYYY
-
-**Certifications:**
-- Project Management Professional (PMP)
-- [Other relevant certifications]
-
-**Professional Memberships:**
-- Member, [Engineering Professional Organization]
-- [Any other relevant memberships]
+**Bachelor of Arts in English**
+University of Utah, SLC UT | Graduated: 2015
 
 **Projects:**
 - [List specific projects you've worked on, highlighting your role and achievements.]
